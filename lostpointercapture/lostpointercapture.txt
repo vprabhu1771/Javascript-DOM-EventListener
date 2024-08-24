@@ -1,0 +1,1 @@
+lostpointercapture: This event occurs when an element releases a pointer capture using the releasePointerCapture() method.

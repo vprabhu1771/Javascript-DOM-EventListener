@@ -1,0 +1,1 @@
+dragstart: This event occurs when an element starts to be dragged.

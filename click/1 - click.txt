@@ -1,0 +1,1 @@
+click: This event occurs when a user clicks on an element.

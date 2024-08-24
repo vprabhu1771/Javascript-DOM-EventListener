@@ -1,0 +1,1 @@
+mouseout: This event occurs when the mouse pointer is moved off of an element.

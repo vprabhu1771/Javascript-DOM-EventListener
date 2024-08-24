@@ -1,0 +1,1 @@
+search: This event occurs when the user presses the "Enter" key or clicks the search button in an input field.

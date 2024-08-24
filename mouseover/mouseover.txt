@@ -1,0 +1,1 @@
+mouseover: This event occurs when the mouse pointer is moved onto an element.

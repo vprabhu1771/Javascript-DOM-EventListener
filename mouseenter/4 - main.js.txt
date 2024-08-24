@@ -1,0 +1,7 @@
+// Selecting the box element
+const box = document.getElementById('box');
+
+// Adding mouseenter event listener
+box.addEventListener('mouseenter', function(event) {
+  box.style.backgroundColor = 'lightgreen';
+});

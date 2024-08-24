@@ -1,0 +1,1 @@
+pointerenter: This event occurs when a pointer device enters the hit test boundaries of an element.

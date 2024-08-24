@@ -1,0 +1,1 @@
+dblclick: This event occurs when a user double-clicks on an element.

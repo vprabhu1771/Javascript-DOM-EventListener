@@ -1,0 +1,1 @@
+readystatechange: This event occurs when the readyState property of a document or XMLHttpRequest changes.

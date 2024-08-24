@@ -1,0 +1,1 @@
+resize: This event occurs when the browser window is resized.

@@ -1,0 +1,1 @@
+pointermove: This event occurs when a pointer device is moved.

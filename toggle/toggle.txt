@@ -1,0 +1,1 @@
+toggle: This event occurs when the user interacts with a <details> element to expand or collapse its contents.

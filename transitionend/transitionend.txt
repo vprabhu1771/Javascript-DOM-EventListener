@@ -1,0 +1,1 @@
+transitionend: This event occurs when a CSS transition completes.

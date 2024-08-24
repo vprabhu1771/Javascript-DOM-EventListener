@@ -1,0 +1,1 @@
+deviceorientation: This event occurs when the device's orientation changes (e.g., when a mobile device is tilted).

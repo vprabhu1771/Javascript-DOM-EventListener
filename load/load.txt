@@ -1,0 +1,1 @@
+load: This event occurs when a resource and its dependent resources have finished loading.

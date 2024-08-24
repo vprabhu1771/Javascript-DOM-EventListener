@@ -1,0 +1,1 @@
+afterprint: This event occurs after the browser has finished printing a document.

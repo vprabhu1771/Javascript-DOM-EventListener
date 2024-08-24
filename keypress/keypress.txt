@@ -1,0 +1,1 @@
+keypress: This event occurs when a key on the keyboard is pressed and released.

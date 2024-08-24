@@ -1,0 +1,1 @@
+drop: This event occurs when a dragged element is dropped on a valid drop target.

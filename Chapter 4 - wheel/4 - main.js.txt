@@ -1,0 +1,22 @@
+// This script will run when the DOM content is fully loaded
+document.addEventListener('DOMContentLoaded', function () {
+    
+    console.log('DOM fully loaded and parsed');
+
+    const box = document.getElementById('box');
+
+    box.addEventListener('wheel', (event) => {
+
+        // Detect if wheel event is scrolled up or down
+        if (event.deltaY < 0) 
+        {
+            box.textContent = 'Scrolled Up!';
+        } 
+        else 
+        {
+            box.textContent = 'Scrolled Down!';
+        }
+        
+    });
+
+});

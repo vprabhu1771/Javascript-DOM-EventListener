@@ -1,0 +1,1 @@
+hashchange: This event occurs when the hash portion of the URL changes.

@@ -1,0 +1,1 @@
+change: This event occurs when the value of an input element changes (e.g., for text inputs, checkboxes, radio buttons, etc.).

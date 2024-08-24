@@ -1,0 +1,17 @@
+// This script will run when the DOM content is fully loaded
+document.addEventListener('DOMContentLoaded', function () {
+    
+    console.log('DOM fully loaded and parsed');
+    
+    // Get the button element
+    const button = document.getElementById('myButton');
+
+    // Add an event listener to the button
+    button.addEventListener('click', function() {
+
+        // This function will be called when the button is clicked
+        console.log('Button clicked!');
+
+    });
+
+});

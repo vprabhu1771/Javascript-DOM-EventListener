@@ -1,0 +1,1 @@
+gotpointercapture: This event occurs when an element captures a pointer using the setPointerCapture() method.

@@ -1,0 +1,1 @@
+drag: This event occurs when an element is being dragged.

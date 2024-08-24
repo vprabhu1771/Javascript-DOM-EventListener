@@ -1,0 +1,1 @@
+focusout: This event occurs when an element is about to lose focus.

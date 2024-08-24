@@ -1,0 +1,1 @@
+removeEventListener method in JavaScript is used to remove an event listener that was previously added to an HTML element.

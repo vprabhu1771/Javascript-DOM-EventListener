@@ -1,0 +1,1 @@
+fullscreenchange: This event occurs when an element enters or exits full-screen mode.

@@ -1,0 +1,1 @@
+message: This event occurs when a message is received through the postMessage() method.

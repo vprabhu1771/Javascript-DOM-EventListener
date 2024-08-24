@@ -1,0 +1,1 @@
+visibilitychange: This event occurs when the visibility of the page changes (e.g., when the page is hidden or becomes visible).

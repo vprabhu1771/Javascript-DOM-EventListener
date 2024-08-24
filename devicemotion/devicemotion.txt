@@ -1,0 +1,1 @@
+devicemotion: This event occurs when the device's motion changes (e.g., when a mobile device is shaken).

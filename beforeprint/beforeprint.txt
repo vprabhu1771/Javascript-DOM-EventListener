@@ -1,0 +1,1 @@
+beforeprint: This event occurs before the browser starts printing a document.

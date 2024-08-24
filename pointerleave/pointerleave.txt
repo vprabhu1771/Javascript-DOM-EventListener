@@ -1,0 +1,1 @@
+pointerleave: This event occurs when a pointer device leaves the hit test boundaries of an element.

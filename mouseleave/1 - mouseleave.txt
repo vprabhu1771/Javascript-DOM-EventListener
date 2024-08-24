@@ -1,0 +1,1 @@
+mouseleave: This event occurs when the mouse pointer leaves the boundary of an element.

@@ -1,0 +1,1 @@
+animationstart: This event occurs when a CSS animation starts.

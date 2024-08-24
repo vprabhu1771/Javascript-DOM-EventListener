@@ -1,0 +1,1 @@
+auxclick: This event occurs when a non-primary mouse button (e.g., middle or right button) is clicked.

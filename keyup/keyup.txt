@@ -1,0 +1,1 @@
+keyup: This event occurs when a keyboard key is released.

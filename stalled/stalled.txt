@@ -1,0 +1,1 @@
+stalled: This event occurs when the browser is trying to fetch media data, but data is not available yet.

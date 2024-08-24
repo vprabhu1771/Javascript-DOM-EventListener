@@ -1,0 +1,1 @@
+focus: This event occurs when an element receives focus.

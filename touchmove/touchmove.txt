@@ -1,0 +1,1 @@
+touchmove: This event occurs when a finger moves on the screen on a touch-enabled device.

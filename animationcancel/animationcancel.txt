@@ -1,0 +1,1 @@
+animationcancel: This event occurs when a CSS animation is interrupted before it completes.

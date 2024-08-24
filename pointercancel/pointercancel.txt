@@ -1,0 +1,1 @@
+pointercancel: This event occurs when the browser cancels a pointer event.

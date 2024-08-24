@@ -1,0 +1,1 @@
+touchstart: This event occurs when a finger touches the screen on a touch-enabled device.

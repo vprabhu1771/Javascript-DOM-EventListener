@@ -1,0 +1,1 @@
+focusin: This event occurs when an element is about to receive focus.

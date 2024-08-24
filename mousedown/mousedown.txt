@@ -1,0 +1,1 @@
+mousedown: This event occurs when a mouse button is pressed down on an element.

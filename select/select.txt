@@ -1,0 +1,1 @@
+select: This event occurs when text is selected within an input element or textarea.

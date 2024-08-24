@@ -1,0 +1,1 @@
+wheel: This event occurs when the mouse wheel is scrolled (both up and down).

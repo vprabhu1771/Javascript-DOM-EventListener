@@ -1,0 +1,27 @@
+// This script will run when the DOM content is fully loaded
+document.addEventListener('DOMContentLoaded', function () {
+    
+    console.log('DOM fully loaded and parsed');
+    
+    // Function to be called when the button is clicked
+    function handleClick() {
+        console.log('Button clicked!');
+    }
+
+    // Get a reference to the button element
+    var button = document.getElementById('myButton');
+
+    // Add event listener to the button
+    button.addEventListener('click', handleClick);
+
+    // Function to remove the event listener
+    function removeClickEvent() {
+        // Remove the event listener from the button
+        button.removeEventListener('click', handleClick);
+        console.log('Event listener removed!');
+    }
+
+    // Call removeClickEvent after 5 seconds
+    setTimeout(removeClickEvent, 5000);
+
+});

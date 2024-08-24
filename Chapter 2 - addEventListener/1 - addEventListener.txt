@@ -1,0 +1,1 @@
+addEventListener is a method used in JavaScript to attach an event handler function to an HTML element. This method allows you to specify a function (the event handler) that will be executed when a specified event occurs on the element.

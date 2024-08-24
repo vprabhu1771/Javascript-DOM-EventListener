@@ -1,0 +1,1 @@
+touchend: This event occurs when a finger is lifted off the screen on a touch-enabled device.

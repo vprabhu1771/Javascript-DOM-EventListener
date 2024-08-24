@@ -1,0 +1,1 @@
+fullscreenerror: This event occurs when an error happens while attempting to enable full-screen mode.

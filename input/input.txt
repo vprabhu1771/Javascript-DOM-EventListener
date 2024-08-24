@@ -1,0 +1,1 @@
+input: This event occurs when an input element's value changes (similar to change event, but it fires immediately).

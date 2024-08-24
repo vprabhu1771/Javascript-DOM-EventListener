@@ -1,0 +1,1 @@
+mousemove: This event occurs when the mouse pointer is moved while it is over an element.

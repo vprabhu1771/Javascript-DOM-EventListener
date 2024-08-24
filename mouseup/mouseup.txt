@@ -1,0 +1,1 @@
+mouseup: This event occurs when a mouse button is released after being pressed down on an element.

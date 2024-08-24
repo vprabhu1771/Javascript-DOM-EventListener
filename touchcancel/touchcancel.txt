@@ -1,0 +1,1 @@
+touchcancel: This event occurs when a touch event is canceled, such as when the touch point leaves the touch surface.

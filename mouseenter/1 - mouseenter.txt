@@ -1,0 +1,1 @@
+mouseenter: This event occurs when the mouse pointer enters the boundary of an element.

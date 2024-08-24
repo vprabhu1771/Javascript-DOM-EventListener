@@ -1,0 +1,1 @@
+storage: This event occurs when a Web Storage area changes.

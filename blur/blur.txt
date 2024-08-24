@@ -1,0 +1,1 @@
+blur: This event occurs when an element loses focus.

@@ -1,0 +1,8 @@
+// This script will run when the DOM content is fully loaded
+document.addEventListener('DOMContentLoaded', function () {
+    
+    console.log('DOM fully loaded and parsed');
+    
+    // You can place your code here that relies on the DOM being fully loaded
+
+});
